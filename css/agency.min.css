@@ -204,6 +204,46 @@ header.masthead {
     background-size: cover
 }
 
+header.masthead2 {
+    text-align: center;
+    color: #fff;
+    background-image: url(../img/blackscreen.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+#main {
+    padding: 80px 200px 80px 200px;
+}
+
+header.masthead2 .intro-text {
+    padding-top: 200px !important;
+    padding-bottom: 100px
+}
+
+header.masthead2 .intro-text .intro-lead-in {
+    font-size: 22px;
+    font-style: italic;
+    color: rgb(175, 141, 111);
+    line-height: 22px;
+    margin-bottom: 25px;
+    font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
+}
+
+header.masthead2 .intro-text .intro-heading {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    margin-bottom: 25px;
+    color: rgb(221, 214, 207);
+    font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
+}
+
+
 header.masthead .intro-text {
     padding-top: 150px;
     padding-bottom: 100px
@@ -242,6 +282,27 @@ header.masthead .intro-text .intro-heading {
     }
 
     header.masthead .intro-text .intro-heading {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+        font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
+    }
+
+    header.masthead2 .intro-text {
+        padding-top: 300px;
+        padding-bottom: 200px
+    }
+
+    header.masthead2 .intro-text .intro-lead-in {
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+        margin-bottom: 25px;
+        font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
+    }
+
+    header.masthead2 .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
