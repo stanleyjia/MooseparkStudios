@@ -6,7 +6,7 @@
 This is the website I created for my game development company, Moosepark Studios.
 
 It first gives a brief overview of the our team's mission statement.
-It describes the vision we had for our debut game, Rainbow Drift, and chronicles the 2+ year long journey it took to take the game from idea to final product.
+It describes the vision we had for our debut game, [Rainbow Drift](https://github.com/stanleyjia/RainbowDrift), and chronicles the 2+ year long journey it took to take the game from idea to final product.
 
 ## Previews
 <img width="700" alt="Screen Shot 2021-11-23 at 4 41 01 PM" src="https://user-images.githubusercontent.com/17485488/143140419-4cd000ee-d41d-4c20-b9fe-84a8ce8c0073.png">
