@@ -1,6 +1,7 @@
 # Company Website
 
-<img width="700" alt="Screen Shot 2021-11-23 at 4 39 58 PM" src="https://user-images.githubusercontent.com/17485488/143140321-014e71cf-d862-40b3-92ff-660dcc989bd4.png">
+
+<img width="750" alt="Screen Shot 2021-11-24 at 4 31 22 PM" src="https://user-images.githubusercontent.com/17485488/143321007-3fbed283-b40d-4cdb-b922-4d69946361b6.png">
 
 ## Overview
 This is the website I created for my game development company, Moosepark Studios.
